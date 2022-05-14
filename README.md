@@ -9,3 +9,6 @@ Robin's web app is looking good and functioning well, but she wants to add more 
 3. Add Bootstrap 3 Components
 
 ## Results
+![WebsiteIMG](Resources/MissionIMG1.png)
+
+After the scraping process and changing of Bootstrap 3 elements, the Hemisphere images are all on one row (changing the code to `col-md-3`). 
